@@ -1,5 +1,8 @@
 package mvc.controller;
 
 public class MemberController {
-	System.out.println("Cart에서 수정했음");
+	public void insert() {
+		System.out.println("집에서 추가함");
+	}
+	
 }
