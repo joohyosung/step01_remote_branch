@@ -5,6 +5,9 @@ public class TestExam {
 		System.out.println("remote 집에서 수정");
 	}
 	
+
 	public void print() {}
+	public void insert() {}
+
 	
 }
